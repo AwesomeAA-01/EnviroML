@@ -1,0 +1,31 @@
+TY  - JOUR
+AU  - Nangini, Cathy
+AU  - Peregon, Anna
+AU  - Ciais, Philippe
+AU  - Weddige, Ulf
+AU  - Vogel, Felix
+AU  - Wang, Jun
+AU  - Bréon, François-Marie
+AU  - Bachra, Simeran
+AU  - Wang, Yilong
+AU  - Gurney, Kevin
+AU  - Yamagata, Yoshiki
+AU  - Appleby, Kyra
+AU  - Telahoun, Sara
+AU  - Canadell, Josep G.
+AU  - Grübler, Arnulf
+AU  - Dhakal, Shobhakar
+AU  - Creutzig, Felix
+PY  - 2019
+DA  - 2019/01/15
+TI  - A global dataset of CO2 emissions and ancillary data related to emissions for 343 cities
+JO  - Scientific Data
+SP  - 180280
+VL  - 6
+IS  - 1
+AB  - We present a global dataset of anthropogenic carbon dioxide (CO2) emissions for 343 cities. The dataset builds upon data from CDP (187 cities, few in developing countries), the Bonn Center for Local Climate Action and Reporting (73 cities, mainly in developing countries), and data collected by Peking University (83 cities in China). The CDP data being self-reported by cities, we applied quality control procedures, documented the type of emissions and reporting method used, and made a correction to separate CO2 emissions from those of other greenhouse gases. Further, a set of ancillary data that have a direct or potentially indirect impact on CO2 emissions were collected from other datasets (e.g. socio-economic and traffic indices) or calculated (climate indices, urban area expansion), then combined with the emission data. We applied several quality controls and validation comparisons with independent datasets. The dataset presented here is not intended to be comprehensive or a representative sample of cities in general, as the choice of cities is based on self-reporting not a designed sampling procedure.
+SN  - 2052-4463
+UR  - https://doi.org/10.1038/sdata.2018.280
+DO  - 10.1038/sdata.2018.280
+ID  - Nangini2019
+ER  - 
